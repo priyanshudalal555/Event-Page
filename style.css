@@ -1,0 +1,26 @@
+h1 {
+    font-size: 2em;
+    margin-top: 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  form {
+    margin-top: 2em;
+  }
+  
+  input {
+    width: 100%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+  }
+  
+  input[type="submit"] {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 0.5em 1em;
+  }
